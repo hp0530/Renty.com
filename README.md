@@ -1,7 +1,3 @@
-Sure, here's a detailed project description for a rental property management system using HTML, CSS, JavaScript, and Django. You can use this description in your GitHub repository's README file.
-
----
-
 # Rental Property Management System
 
 ## Overview
@@ -74,9 +70,22 @@ The Rental Property Management System is a web application designed to streamlin
 - **User Dashboard:** Accessible after login, providing tenants with the ability to view their lease details and submit maintenance requests.
 
 ## Screenshots
-![Home Page](screenshots/home_page.png)
-![Admin Dashboard](screenshots/admin_dashboard.png)
-![Property Management](screenshots/property_management.png)
+
+### Home Page
+
+![Home Page](homepage.png)
+
+### Property Listing Page
+
+![Property Listing Page ](propertylistingpage.png)
+
+### Property Types
+
+![Property types](propertytypes.png)
+
+### Review Page
+
+![Review](reviewpage.png)
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for review.

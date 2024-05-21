@@ -19,7 +19,7 @@ The Rental Property Management System is a web application designed to streamlin
 - **Backend:**
   - Django
 - **Database:**
-  - SQLite (default with Django, can be replaced with PostgreSQL, MySQL, etc.)
+  - SQLite (default with Django)
 - **Version Control:**
   - Git
 
@@ -33,8 +33,8 @@ The Rental Property Management System is a web application designed to streamlin
 ### Steps
 1. **Clone the Repository:**
     ```sh
-    git clone https://github.com/hp0530/rental-property-management-system.git
-    cd rental-property-management-system
+    git clone https://github.com/hp0530/Renty.com.git
+    cd rpms
     ```
 
 2. **Create a Virtual Environment:**
